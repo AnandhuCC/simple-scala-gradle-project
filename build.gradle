@@ -3,6 +3,7 @@
 plugins {
     // Apply the scala plugin to add support for Scala
     id 'scala'
+    id 'org.sonarqube' version '3.3'
 }
 
 repositories {
